@@ -1,10 +1,10 @@
-﻿using EcommerceWebAPI.Data;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using EcommerceWebAPI.Entities;
 using Microsoft.EntityFrameworkCore;
-using EcommerceWebAPI.Controllers;
 using EcommerceWebAPI.Interface;
 
+//home... let me go home, home is where ever im with you
 
 namespace EcommerceWebAPI.DTOs
 {
